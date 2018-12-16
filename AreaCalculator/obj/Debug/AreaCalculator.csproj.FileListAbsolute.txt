@@ -1,0 +1,6 @@
+C:\Users\Gentleshark\source\repos\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.dll
+C:\Users\Gentleshark\source\repos\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Users\Gentleshark\source\repos\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csprojAssemblyReference.cache
+C:\Users\Gentleshark\source\repos\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gentleshark\source\repos\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.dll
+C:\Users\Gentleshark\source\repos\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.pdb
